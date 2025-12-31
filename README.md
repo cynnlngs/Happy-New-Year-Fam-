@@ -240,7 +240,7 @@ html, body {
 <!-- PICTURE 2 CENTERED WITH FRAME -->
 <div id="picture2" class="screen">
   <div id="picture2-frame">
-    <img src="GIFT2026.jpeg" alt="Gift Picture">
+    <img src="GIFT2026.jpg" alt="Gift Picture">
   </div>
 </div>
 
